@@ -1,4 +1,11 @@
+using InventoryManagement.API.DataAccess;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+var getConnString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+builder.Services.AddDbContext<InventoryDBContext>(options => options.UseSqlServer(getConnString));
 
 // Add services to the container.
 
