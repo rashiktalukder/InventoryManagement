@@ -18,8 +18,4 @@
     <PackageReference Include="X.PagedList" Version="10.5.7" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>

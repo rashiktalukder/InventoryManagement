@@ -1,12 +1,270 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|c:\\users\\kawsa\\source\\repos\\inventorymanagement\\inventorymanagement.api\\inventorymanagement.api\\models\\dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement.api\\models\\dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|c:\\users\\kawsa\\source\\repos\\inventorymanagement\\inventorymanagement.api\\inventorymanagement.api\\models\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement.api\\models\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|c:\\users\\kawsa\\source\\repos\\inventorymanagement\\inventorymanagement.api\\inventorymanagement.api\\models\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement.api\\models\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|c:\\users\\kawsa\\source\\repos\\inventorymanagement\\inventorymanagement.api\\inventorymanagement.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|c:\\users\\kawsa\\source\\repos\\inventorymanagement\\inventorymanagement.api\\inventorymanagement.api\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement.api\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|c:\\users\\kawsa\\source\\repos\\inventorymanagement\\inventorymanagement.api\\inventorymanagement.api\\models\\dtos\\companyresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement.api\\models\\dtos\\companyresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|c:\\users\\kawsa\\source\\repos\\inventorymanagement\\inventorymanagement.api\\inventorymanagement.api\\models\\dtos\\companycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement.api\\models\\dtos\\companycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|c:\\users\\kawsa\\source\\repos\\inventorymanagement\\inventorymanagement.api\\inventorymanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|c:\\users\\kawsa\\source\\repos\\inventorymanagement\\inventorymanagement.api\\inventorymanagement.api\\models\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement.api\\models\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|c:\\users\\kawsa\\source\\repos\\inventorymanagement\\inventorymanagement.api\\inventorymanagement.api\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement.api\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|c:\\users\\kawsa\\source\\repos\\inventorymanagement\\inventorymanagement.api\\inventorymanagement.api\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement.api\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|c:\\users\\kawsa\\source\\repos\\inventorymanagement\\inventorymanagement.api\\inventorymanagement.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|c:\\users\\kawsa\\source\\repos\\inventorymanagement\\inventorymanagement.api\\inventorymanagement.api\\dataaccess\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement.api\\dataaccess\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|c:\\users\\kawsa\\source\\repos\\inventorymanagement\\inventorymanagement.api\\inventorymanagement.api\\models\\dailyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement.api\\models\\dailyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|c:\\users\\kawsa\\source\\repos\\inventorymanagement\\inventorymanagement.api\\inventorymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723CF206-2CDB-481A-972A-C42DBA19CCE5}|InventoryManagement.API\\InventoryManagement.API.csproj|solutionrelative:inventorymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\DTOs\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.API\\Models\\DTOs\\UserResponseDto.cs",
+              "ToolTip": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\DTOs\\UserResponseDto.cs",
+              "RelativeToolTip": "InventoryManagement.API\\Models\\DTOs\\UserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:10:09.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.API\\Models\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "InventoryManagement.API\\Models\\DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:09:41.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.API\\Models\\DTOs\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "InventoryManagement.API\\Models\\DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:09:02.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.API\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "InventoryManagement.API\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAADkAAAAAmpmZmZkJwE4AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:18:26.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompanyResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\DTOs\\CompanyResponseDto.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.API\\Models\\DTOs\\CompanyResponseDto.cs",
+              "ToolTip": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\DTOs\\CompanyResponseDto.cs",
+              "RelativeToolTip": "InventoryManagement.API\\Models\\DTOs\\CompanyResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:17:18.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompanyCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\DTOs\\CompanyCreateDto.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.API\\Models\\DTOs\\CompanyCreateDto.cs",
+              "ToolTip": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\DTOs\\CompanyCreateDto.cs",
+              "RelativeToolTip": "InventoryManagement.API\\Models\\DTOs\\CompanyCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:16:40.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryManagement.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\appsettings.json",
+              "RelativeToolTip": "InventoryManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T18:50:07.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\Warehouse.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.API\\Models\\Warehouse.cs",
+              "ToolTip": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\Warehouse.cs",
+              "RelativeToolTip": "InventoryManagement.API\\Models\\Warehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:32:02.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\Product.cs",
+              "RelativeToolTip": "InventoryManagement.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:31:23.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.API\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\Company.cs",
+              "RelativeToolTip": "InventoryManagement.API\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:08:44.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\Transactions.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.API\\Models\\Transactions.cs",
+              "ToolTip": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\Transactions.cs",
+              "RelativeToolTip": "InventoryManagement.API\\Models\\Transactions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:36:24.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.API\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\Users.cs",
+              "RelativeToolTip": "InventoryManagement.API\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:10:11.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Program.cs",
+              "RelativeToolTip": "InventoryManagement.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:51:43.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DailyReport.cs",
+              "DocumentMoniker": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\DailyReport.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.API\\Models\\DailyReport.cs",
+              "ToolTip": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\Models\\DailyReport.cs",
+              "RelativeToolTip": "InventoryManagement.API\\Models\\DailyReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:40:39.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InventoryDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\DataAccess\\InventoryDBContext.cs",
+              "RelativeDocumentMoniker": "InventoryManagement.API\\DataAccess\\InventoryDBContext.cs",
+              "ToolTip": "C:\\Users\\kawsa\\source\\repos\\InventoryManagement\\InventoryManagement.API\\InventoryManagement.API\\DataAccess\\InventoryDBContext.cs",
+              "RelativeToolTip": "InventoryManagement.API\\DataAccess\\InventoryDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:46:04.629Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
