@@ -2,19 +2,23 @@
 using InventoryManagement.API.Helper;
 using InventoryManagement.API.Models;
 using InventoryManagement.API.Models.DTOs;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace InventoryManagement.API.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class UserController : ControllerBase
     {
         private readonly InventoryDBContext context;
+        private readonly IConfiguration configuration;
 
-        public UserController(InventoryDBContext context)
+        public UserController(InventoryDBContext context, IConfiguration configuration)
         {
             this.context = context;
+            this.configuration = configuration;
         }
 
         [HttpPost]
@@ -47,8 +51,14 @@ namespace InventoryManagement.API.Controllers
                 return Unauthorized("Invalid Email or Password.");
             }
 
+            var jwtHelper = new JwtHelper(configuration);
+            var token = jwtHelper.GenerateToken(user.Id.ToString(), user.Email, user.Role);
 
-            return Ok(new { Message = "Login Successful"} );
+            return Ok(new 
+            { 
+                Token = token,
+                Message = "Login Successful."
+            });
         }
 
         [HttpGet("{id}")]

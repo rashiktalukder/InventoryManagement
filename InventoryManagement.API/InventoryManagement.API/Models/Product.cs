@@ -1,17 +1,28 @@
-﻿namespace InventoryManagement.API.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace InventoryManagement.API.Models
 {
     public class Product
     {
-        public int Id { get; set; } // Primary Key
-        public int CompanyId { get; set; } // Foreign Key referencing Company(Id)
+        public int Id { get; set; }
 
-        public string Name { get; set; } // Product Name
-        public int Quantity { get; set; } // Quantity in stock
-        public decimal Price { get; set; } // Price of the Product
-        public DateTime CreatedAt { get; set; } = DateTime.Now; // Automatically set at creation
+        [Required]
+        [MaxLength(100)]
+        public string Name { get; set; }
 
-        // Navigation property for the related Company
-        public Company Company { get; set; }
+        [Required]
+        [MaxLength(50)]
+        public string Category { get; set; }
+
+        [Required]
+        public decimal Price { get; set; }
+
+        [Required]
+        public int Quantity { get; set; }
+
+        [Required]
+        public int WarehouseId { get; set; }
+        public Warehouse Warehouse { get; set; }
     }
 
 }
